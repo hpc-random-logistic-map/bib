@@ -1,7 +1,7 @@
 @INPROCEEDINGS{olivier, 
 author={Olivier, S. and Prins, J.}, 
 booktitle={Parallel Processing, 2008. ICPP '08. 37th International Conference on}, 
-title={Scalable Dynamic Load Balancing Using UPC}, 
+title={Scalable Dynamic Load Balancing Using {UPC}}, 
 year={2008}, 
 month={Sept}, 
 pages={123-131}, 
@@ -14,7 +14,7 @@ annote={Olivier and Prins implement an asynchronous work-stealing dynamic load b
 @article{dlb,
     author    = {Marc H. Willibeek-LeMair and Anthony P. Reeves},
     title     = {Strategies for Dynamic Load Balancing on Highly Parallel Computers},
-    journal   = {IEEE Transactions on Parallel and Distributed Computing},
+    journal   = {{IEEE} Transactions on Parallel and Distributed Computing},
     volume    = {4},
     month     = {September},
     number    = {4},
@@ -50,17 +50,10 @@ title = {{Open MPI: Open Source High Performance Computing}},
 year = {2014},
 url = {http://www.open-mpi.org/faq/},
 subtitle = {FAQ: Running MPI jobs},
-OPTtitleaddon = {•},
-OPTlanguage = {•},
-OPTversion = {•},
 note = {http://www.open-mpi.org/faq/},
 organization = {{The Open MPI Project}},
-OPTdate = {•},
-OPTmonth = {•},
-OPTaddendum = {•},
-OPTpubstate = {•},
 urldate = {17 November 2014},
-annote = {Explanatory paragraph goes here.}
+annote = {This article goes through frequently asked questions for new MPI users, like most of us in this class. It covers general information and usability, running, and tuning for the best performance. It also suggests performance and analysis tools besides just manual walltime measurement and MFLOP/second measurement, which may give us measurements without crowded walltime syntax.}
 }
 
 @online{openmpi:buffalo,
@@ -69,25 +62,17 @@ title = {{MPI} and Parallel Computing},
 year = {2004--2014},
 url = {http://www.buffalo.edu/ccr/support/UserGuide/AdvancedTopics/mpi.html},
 subtitle = {FAQ: Running MPI jobs},
-OPTtitleaddon = {•},
-OPTlanguage = {•},
-OPTversion = {•},
 note = {http://www.buffalo.edu/ccr/support/UserGuide/AdvancedTopics/mpi.html},
-OPTorganization = {•},
-OPTdate = {•},
-OPTmonth = {•},
-OPTaddendum = {•},
-OPTpubstate = {•},
 urldate = {17 November 2014},
-annote = {Explanatory paragraph goes here.}
+annote = {This article and corresponding site explain MPI programmimg with a problem focused context when it comes to parallel computing. It contains tutorials for parallel programs and bash scripts involving the slurm workload manager, tutorial slides for the different practical problems that will be solved with MPI and the issues that arise with them. }
 }
 
 @book{chandra2001parallel,
   title={Parallel programming in OpenMP},
   author={Chandra, Rohit},
   year={2001},
-  publisher={Morgan Kaufmann}
- annote = {The authors of this book were originally SGI engineers who were involved in the design and implementation of OpenMP. The main information avaible about OpenMPI can be found at www.openmp.org. Although full specification of OpenMP is appropriate and complete, it is not a very accessible format for programmers wishing to use OpenMP for developing parallel application. This book tries to fullfill the needs of these programmers. This book can serve as a complete reference guild, also can be the mean tool for exploring options to improve performance on the OpenMP section of the project(removing dependency, load balancing between threads).}
+  publisher={Morgan Kaufmann},
+ annote = {The authors of this book were originally SGI engineers who were involved in the design and implementation of OpenMP. The main information avaible about OpenMPI can be found at www.openmp.org. Although full specification of OpenMP is appropriate and complete, it is not a very accessible format for programmers wishing to use OpenMP for developing parallel application. This book tries to fullfill the needs of these programmers. This book can serve as a complete reference guide, also can be the mean tool for exploring options to improve performance on the OpenMP section of the project(removing dependency, load balancing between threads).}
 }
 
 @book{sato2010beyond,
@@ -95,11 +80,40 @@ annote = {Explanatory paragraph goes here.}
   author={Sato, Mitsuhisa and Hanawa, Toshihiro and M{\"u}ller, Matthias S and Chapman, Barbara and de Supinski, Bronis R},
   volume={6132},
   year={2010},
-  publisher={Springer}
+  publisher={Springer},
  annote = {Chapter one of this book, Enabling Low-Overhead Hybrid MPI/OpenMP Parallelism with MPC, introduce a new module to MPC framework handling a fully 2.5-compliant OpenMP runtime completely intergrated to an MPI1.3 implementation. This chapter review strategy how to target oversubscribing capabilities and the possibility to run hybrid MPI/OpenMP application with a limited overhead. This can be really useful for us when implementing our strategy as we are most likely will face the same problem, ie how to optimize performance when implement the hybrid system using limited sharing resources.}
 }
 
+@inproceedings{Folk:2011:OHT:1966895.1966900,
+ author = {Folk, Mike and Heber, Gerd and Koziol, Quincey and Pourmal, Elena and Robinson, Dana},
+ title = {An Overview of the {HDF5} Technology Suite and Its Applications},
+ booktitle = {Proceedings of the {EDBT/ICDT} 2011 Workshop on Array Databases},
+ series = {AD '11},
+ year = {2011},
+ isbn = {978-1-4503-0614-0},
+ location = {Uppsala, Sweden},
+ pages = {36--47},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/1966895.1966900},
+ doi = {10.1145/1966895.1966900},
+ acmid = {1966900},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {HDF5, data management, data models, databases},
+ annote = {As the title suggests, this paper gives an overview of the functionality provided by HDF5. Particularly applicable is a section on improving I/O performance. }
+} 
 
+@online{HDF:UserGuide,
+author = {The {HDF} Group},
+title = {{HDF5} User's Guide},
+year = {2014},
+url = {http://www.hdfgroup.org/HDF5/doc/UG/index.html},
+version = {1.8.14},
+note = {http://www.hdfgroup.org/HDF5/doc/UG/index.html},
+organization = {The {HDF} Group},
+date = {18 November 2014},
+annote = {This user's guide covers HDF5 use in C and Fortran.}
+}
 
 
 

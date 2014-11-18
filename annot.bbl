@@ -1,8 +1,8 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{athreya}
 K.B. Athreya and Jack Dai.
-\newblock Random logistic maps. \i.
+\newblock Random logistic maps.
 \newblock {\em Journal of Theoretical Probability}, 13(2):595--608, 2000.
  \begin{quotation}\noindent Athreya and Dai explore the concept of a
   time-varying logistic map. In a sense, they lay out the general groundwork
@@ -19,7 +19,41 @@ K.B. Athreya and Jack Dai.
 {Center for Computational Research}.
 \newblock {MPI} and parallel computing, 2004--2014.
 \newblock http://www.buffalo.edu/ccr/support/UserGuide/AdvancedTopics/mpi.html.
- \begin{quotation}\noindent Explanatory paragraph goes here. \end{quotation}
+ \begin{quotation}\noindent This article and corresponding site explain MPI
+  programmimg with a problem focused context when it comes to parallel
+  computing. It contains tutorials for parallel programs and bash scripts
+  involving the slurm workload manager, tutorial slides for the different
+  practical problems that will be solved with MPI and the issues that arise
+  with them. \end{quotation}
+\bibitem{chandra2001parallel}
+Rohit Chandra.
+\newblock {\em Parallel programming in OpenMP}.
+\newblock Morgan Kaufmann, 2001.
+ \begin{quotation}\noindent The authors of this book were originally SGI
+  engineers who were involved in the design and implementation of OpenMP. The
+  main information avaible about OpenMPI can be found at www.openmp.org.
+  Although full specification of OpenMP is appropriate and complete, it is not
+  a very accessible format for programmers wishing to use OpenMP for developing
+  parallel application. This book tries to fullfill the needs of these
+  programmers. This book can serve as a complete reference guild, also can be
+  the mean tool for exploring options to improve performance on the OpenMP
+  section of the project(removing dependency, load balancing between threads).
+  \end{quotation}
+
+\bibitem{Folk:2011:OHT:1966895.1966900}
+Mike Folk, Gerd Heber, Quincey Koziol, Elena Pourmal, and Dana Robinson.
+\newblock An overview of the {HDF5} technology suite and its applications.
+\newblock In {\em Proceedings of the {EDBT/ICDT} 2011 Workshop on Array
+  Databases}, AD '11, pages 36--47, New York, NY, USA, 2011. ACM.
+ \begin{quotation}\noindent As the title suggests, this paper gives an overview
+  of the functionality provided by HDF5. Particularly applicable is a section
+  on improving I/O performance. \end{quotation}
+\bibitem{HDF:UserGuide}
+The~{HDF} Group.
+\newblock {HDF5} user's guide, 2014.
+\newblock http://www.hdfgroup.org/HDF5/doc/UG/index.html.
+ \begin{quotation}\noindent This user's guide covers HDF5 use in C and Fortran.
+  \end{quotation}
 \bibitem{lamb}
 Jeroen~S.W. Lamb, Martin Rasmussen, and Christian~S. Rodrigues.
 \newblock Topological bifurcations of minimal invariant sets for set-valued
@@ -34,7 +68,7 @@ Jeroen~S.W. Lamb, Martin Rasmussen, and Christian~S. Rodrigues.
 
 \bibitem{olivier}
 S.~Olivier and J.~Prins.
-\newblock Scalable dynamic load balancing using upc.
+\newblock Scalable dynamic load balancing using {UPC}.
 \newblock In {\em Parallel Processing, 2008. ICPP '08. 37th International
   Conference on}, pages 123--131, Sept 2008.
  \begin{quotation}\noindent Olivier and Prins implement an asynchronous
@@ -48,16 +82,37 @@ S.~Olivier and J.~Prins.
   authors' findings indicate that we should minimize the number of read and
   write operations as we compute solutions to the fixed point equations in
   order to keep the communication overhad low. \end{quotation}
+\bibitem{sato2010beyond}
+Mitsuhisa Sato, Toshihiro Hanawa, Matthias~S M{\"u}ller, Barbara Chapman, and
+  Bronis~R de~Supinski.
+\newblock {\em Beyond Loop Level Parallelism in OpenMP: Accelerators, Tasking
+  and More}, volume 6132.
+\newblock Springer, 2010.
+ \begin{quotation}\noindent Chapter one of this book, Enabling Low-Overhead
+  Hybrid MPI/OpenMP Parallelism with MPC, introduce a new module to MPC
+  framework handling a fully 2.5-compliant OpenMP runtime completely
+  intergrated to an MPI1.3 implementation. This chapter review strategy how to
+  target oversubscribing capabilities and the possibility to run hybrid
+  MPI/OpenMP application with a limited overhead. This can be really useful for
+  us when implementing our strategy as we are most likely will face the same
+  problem, ie how to optimize performance when implement the hybrid system
+  using limited sharing resources. \end{quotation}
+
 \bibitem{openmpi:faq}
 {Various contributers: The Open MPI Project}.
 \newblock {Open MPI: Open Source High Performance Computing}, 2014.
 \newblock http://www.open-mpi.org/faq/.
- \begin{quotation}\noindent Explanatory paragraph goes here. \end{quotation}
+ \begin{quotation}\noindent This article goes through frequently asked
+  questions for new MPI users, like most of us in this class. It covers general
+  information and usability, running, and tuning for the best performance. It
+  also suggests performance and analysis tools besides just manual walltime
+  measurement and MFLOP/second measurement, which may give us measurements
+  without crowded walltime syntax. \end{quotation}
 \bibitem{dlb}
 Marc~H. Willibeek-LeMair and Anthony~P. Reeves.
 \newblock Strategies for dynamic load balancing on highly parallel computers.
-\newblock {\em IEEE Transactions on Parallel and Distributed Computing}, 4(4),
-  September 1993.
+\newblock {\em {IEEE} Transactions on Parallel and Distributed Computing},
+  4(4), September 1993.
  \begin{quotation}\noindent Willibeek-LeMair and Reeves discuss five strategies
   for dynamic load balancing: sender initiated diffusion, receiver initiated
   diffusion, hierarchical balancing model, gradient model, and dimension
