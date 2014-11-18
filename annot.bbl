@@ -1,69 +1,27 @@
 \begin{thebibliography}{1}
 
-\bibitem{anderson:primal}
-E.~J. Anderson.
-\newblock A new primal algorithm for semi-infinite linear programming.
-\newblock In E.~J. Anderson and A.~B. Philpott, editors, {\em Proceedings of an
-  International Symposium on Infinite Dimensional Linear Programming,
-  Cambridge, September 1984}, Berlin, 1985. Springer-Verlag.
-
-\bibitem{billups.watson:probability-one}
-S.~C. Billups and L.~T. Watson.
-\newblock A probability-one homotopy algorithm for nonsmooth equations and
-  mixed complementarity problems.
-\newblock UCD/CCM Report No. 165, University of Colorado at Denver, Denver,
-  Colorado, September 2000.
- \begin{quotation}\noindent {This paper extends the probability-one homotopy
-  algorithm of Chow-Yorke and Li, which solves $C^2$ systems of equations. The
-  resulting algorithm is capable of solving semismooth systems of equations.
-  The basis of the algorithm is to "smooth" the nonsmooth system of equations
-  using a smoothing parameter that is a function of the homotopy parameter. }
-  \end{quotation}
 \bibitem{openmpi:buffalo}
 {Center for Computational Research}.
 \newblock {MPI} and parallel computing, 2004--2014.
 \newblock http://www.buffalo.edu/ccr/support/UserGuide/AdvancedTopics/mpi.html.
  \begin{quotation}\noindent Explanatory paragraph goes here. \end{quotation}
-\bibitem{dearaujo:statistically}
-Jose Vicente~Granato {de Araujo}.
-\newblock {\em A Statistically Based Procedure for Calibration of Water
-  Distribution Systems}.
-\newblock PhD thesis, Oklahoma State University, Stillwater, Oklahoma, May
-  1992.
- \begin{quotation}\noindent This Ph.D. thesis discusses a statistically based
-  calibration method for water distribution systems. The author gives an
-  in-depth analysis of the calibration procedure discussing analytical methods,
-  optimization methods, and uncertainty analysis for estimating demands and
-  C-factors. A linear regression technique for estimating the C-factors is
-  discussed. Also, a procedure for transferring uncertainties in input data to
-  the parameter estimation is explained. \end{quotation}
-\bibitem{conn.scheinberg.ea:recent}
-Thomas~M. Liebling and Dominique de~Werra, editors.
-\newblock {\em Recent progress in unconstrained nonlinear optimization without
-  derivatives}, North-Holland, 1997. Mathematical Programming Society.
+\bibitem{lamb}
+Jeroen~S.W. Lamb, Martin Rasmussen, and Christian~S. Rodrigues.
+\newblock Topological bifurcations of minimal invariant sets for set-valued
+  dynamical systems.
+\newblock {\em Proceedings of the American Mathematical Society}, 2013.
+ \begin{quotation}\noindent Amy explain here. \end{quotation}
 
-\bibitem{mifflin:semismooth}
-R.~Mifflin.
-\newblock Semismooth and semiconvex functions in constrained optimization.
-\newblock {\em Siam Journal on Control}, 15:957--972, 1977.
- \begin{quotation}\noindent This is the first appearance in the literature of
-  the concept of a semismooth function. Semismooth functions are closed under
-  addition and composition, and also guarantee the local convergence of
-  nonsmooth generalizations of Newton's method. \end{quotation}
-
-\bibitem{savic.walters:genetic}
-D.~A. Savic and G.~A. Walters.
-\newblock Genetic algorithm techniques for calibrating network models.
-\newblock Technical Report 95/12, University of Exeter, 1995.
- \begin{quotation}\noindent Savic seems to have spent much time and effort in
-  using genetic algorithms in water system design. In this paper he discusses
-  genetic algorithms and gives a brief overview, he discusses how he used a
-  genetic algorithm to calibrate a small water system. He talks about what he
-  was trying to find (c-factors and demands) and how he used a genetic
-  algorithm to do this. \end{quotation}
 \bibitem{openmpi:faq}
 {Various contributers: The Open MPI Project}.
 \newblock {Open MPI: Open Source High Performance Computing}, 2014.
 \newblock http://www.open-mpi.org/faq/.
  \begin{quotation}\noindent Explanatory paragraph goes here. \end{quotation}
+\bibitem{dlb}
+Marc~H. Willibeek-LeMair and Anthony~P. Reeves.
+\newblock Strategies for dynamic load balancing on highly parallel computers.
+\newblock {\em IEEE Transactions on Parallel and Distributed Computing}, 4(4),
+  September 1993.
+ \begin{quotation}\noindent Amy explain here. \end{quotation}
+
 \end{thebibliography}
