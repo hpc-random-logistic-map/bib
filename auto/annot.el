@@ -3,6 +3,7 @@
     (LaTeX-add-bibitems
      "dlb"
      "lamb"
+     "athreya"
      "openmpi:faq"
      "openmpi:buffalo")))
 

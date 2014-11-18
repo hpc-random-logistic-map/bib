@@ -1,5 +1,20 @@
 \begin{thebibliography}{1}
 
+\bibitem{athreya}
+K.B. Athreya and Jack Dai.
+\newblock Random logistic maps. \i.
+\newblock {\em Journal of Theoretical Probability}, 13(2):595--608, 2000.
+ \begin{quotation}\noindent Athreya and Dai explore the concept of a
+  time-varying logistic map. In a sense, they lay out the general groundwork
+  for exploring a spatially-varying logistic map. They find a theoretical
+  explanation for their observations, expressed as probabilities. These
+  findings imply that (and this is beyond the scope of the project) there could
+  be some interesting observations from the spatially-random logistic map, and
+  the observations can be quantified as probabilities. This project's goal is
+  to characterize the map in terms of the average number of period $p$ orbits
+  in any given realization, and also to find the set-valued bifurcation diagram
+  that describes this system. \end{quotation}
+
 \bibitem{openmpi:buffalo}
 {Center for Computational Research}.
 \newblock {MPI} and parallel computing, 2004--2014.

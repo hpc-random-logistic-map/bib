@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.16)  17 NOV 2014 21:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.16)  17 NOV 2014 22:34
 entering extended mode
 **annot
 (c:\Users\amy\Documents\hpc\Project\bib\annot.tex
@@ -36,30 +36,38 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 
 (c:\Users\amy\Documents\hpc\Project\bib\annot.bbl
-Underfull \hbox (badness 4144) in paragraph at lines 4--7
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+
+Underfull \hbox (badness 4144) in paragraph at lines 19--22
 []\OT1/cmr/m/n/12 Center for Com-pu-ta-tional Re-search.  MPI and par-al-lel co
 m-put-ing, 2004--2014.
  []
 
-) [1
+[1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) [2]
 (c:\Users\amy\Documents\hpc\Project\bib\annot.aux) ) 
 Here is how much of TeX's memory you used:
- 219 strings out of 493706
- 2592 string characters out of 3144589
- 56139 words of memory out of 3000000
- 3618 multiletter control sequences out of 15000+200000
- 5189 words of font info for 19 fonts, out of 3000000 for 9000
+ 238 strings out of 493706
+ 2790 string characters out of 3144589
+ 57139 words of memory out of 3000000
+ 3630 multiletter control sequences out of 15000+200000
+ 7627 words of font info for 27 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 22i,4n,19p,123b,176s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 22i,4n,19p,123b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb>
-Output written on annot.pdf (1 page, 48683 bytes).
+type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmti12.pfb>
+Output written on annot.pdf (2 pages, 58046 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
