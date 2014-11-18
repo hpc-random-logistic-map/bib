@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.16)  17 NOV 2014 21:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.16)  17 NOV 2014 21:56
 entering extended mode
 **annot
 (c:\Users\amy\Documents\hpc\Project\bib\annot.tex
@@ -48,7 +48,7 @@ m-put-ing, 2004--2014.
 Here is how much of TeX's memory you used:
  219 strings out of 493706
  2592 string characters out of 3144589
- 54139 words of memory out of 3000000
+ 56139 words of memory out of 3000000
  3618 multiletter control sequences out of 15000+200000
  5189 words of font info for 19 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -57,7 +57,7 @@ Here is how much of TeX's memory you used:
 9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on annot.pdf (1 page, 47307 bytes).
+Output written on annot.pdf (1 page, 48683 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

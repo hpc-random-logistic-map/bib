@@ -1,9 +1,8 @@
 (TeX-add-style-hook "annot"
  (lambda ()
-    (LaTeX-add-bibliographies)
-    (TeX-run-style-hooks
-     "latex2e"
-     "art12"
-     "article"
-     "12pt")))
+    (LaTeX-add-bibitems
+     "dlb"
+     "lamb"
+     "openmpi:faq"
+     "openmpi:buffalo")))
 
