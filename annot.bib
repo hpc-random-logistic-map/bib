@@ -1,3 +1,16 @@
+@INPROCEEDINGS{olivier, 
+author={Olivier, S. and Prins, J.}, 
+booktitle={Parallel Processing, 2008. ICPP '08. 37th International Conference on}, 
+title={Scalable Dynamic Load Balancing Using UPC}, 
+year={2008}, 
+month={Sept}, 
+pages={123-131}, 
+keywords={parallel programming;resource allocation;tree data structures;tree searching;UPC;Unified Parallel C;asynchronous work-stealing implementation;available work dissemination;distributed memory;scalable dynamic load balancing;shared memory;synthetic tree-structured search space;termination detection cost;unbalanced tree search;Aerodynamics;Computer science;Cost function;Delay;Hardware;Load management;Parallel processing;Protocols;Read-write memory;State-space methods;Unbalanced Tree Search benchmark;Unified Parallel C;distributed memory systems;load balancing;performance analysis;unbalanced parallel computations;work stealing}, 
+doi={10.1109/ICPP.2008.19}, 
+ISSN={0190-3918},
+annote={Olivier and Prins implement an asynchronous work-stealing dynamic load balancer with Unified Parallel C (UPC). They evaluate the performance of their balancer with the Unbalanced Tree Search (UTS) benchmark, which is a synthetic tree-structured search space that is highly imbalanced. They observe parallel efficiency of 80\% using 1024 processors performing over 85,000 total load balancing operations per second continuously. An additional finding is that the careful use of one sided reads and writes is necessary to minimize the communication overhead. The authors' findings indicate that we should minimize the number of read and write operations as we compute solutions to the fixed point equations in order to keep the communication overhad low.}
+}
+
 @article{dlb,
     author    = {Marc H. Willibeek-LeMair and Anthony P. Reeves},
     title     = {Strategies for Dynamic Load Balancing on Highly Parallel Computers},

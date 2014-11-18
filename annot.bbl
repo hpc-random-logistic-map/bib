@@ -32,6 +32,22 @@ Jeroen~S.W. Lamb, Martin Rasmussen, and Christian~S. Rodrigues.
   underpinning for our simulation, and also as a reference for the set-valued
   bifurcation diagram we plan to generate. \end{quotation}
 
+\bibitem{olivier}
+S.~Olivier and J.~Prins.
+\newblock Scalable dynamic load balancing using upc.
+\newblock In {\em Parallel Processing, 2008. ICPP '08. 37th International
+  Conference on}, pages 123--131, Sept 2008.
+ \begin{quotation}\noindent Olivier and Prins implement an asynchronous
+  work-stealing dynamic load balancer with Unified Parallel C (UPC). They
+  evaluate the performance of their balancer with the Unbalanced Tree Search
+  (UTS) benchmark, which is a synthetic tree-structured search space that is
+  highly imbalanced. They observe parallel efficiency of 80\% using 1024
+  processors performing over 85,000 total load balancing operations per second
+  continuously. An additional finding is that the careful use of one sided
+  reads and writes is necessary to minimize the communication overhead. The
+  authors' findings indicate that we should minimize the number of read and
+  write operations as we compute solutions to the fixed point equations in
+  order to keep the communication overhad low. \end{quotation}
 \bibitem{openmpi:faq}
 {Various contributers: The Open MPI Project}.
 \newblock {Open MPI: Open Source High Performance Computing}, 2014.
