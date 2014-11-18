@@ -1,9 +1,18 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.16)  17 NOV 2014 23:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  18 NOV 2014 00:07
 entering extended mode
-**annot
-(c:\Users\amy\Documents\hpc\Project\bib\annot.tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 68 languages loaded.
+**C:/Users/brian_000/Desktop/bib/annot.tex
+(C:/Users/brian_000/Desktop/bib/annot.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
@@ -21,7 +30,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(c:\Users\amy\Documents\hpc\Project\bib\annot.aux)
+(C:\Users\brian_000\Desktop\bib\annot.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -35,7 +44,7 @@ LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 
-(c:\Users\amy\Documents\hpc\Project\bib\annot.bbl
+(C:\Users\brian_000\Desktop\bib\annot.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -51,21 +60,21 @@ m-put-ing, 2004--2014.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) [2]
-(c:\Users\amy\Documents\hpc\Project\bib\annot.aux) ) 
+(C:\Users\brian_000\Desktop\bib\annot.aux) ) 
 Here is how much of TeX's memory you used:
- 239 strings out of 493706
- 2799 string characters out of 3144589
- 57139 words of memory out of 3000000
- 3631 multiletter control sequences out of 15000+200000
+ 239 strings out of 493921
+ 2727 string characters out of 3147269
+ 54031 words of memory out of 3000000
+ 3604 multiletter control sequences out of 15000+200000
  7627 words of font info for 27 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 22i,4n,19p,123b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmti12.pfb>
-Output written on annot.pdf (2 pages, 61032 bytes).
+ 841 hyphenation exceptions out of 8191
+ 22i,4n,19p,168b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmti12.pfb>
+Output written on annot.pdf (2 pages, 61031 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
