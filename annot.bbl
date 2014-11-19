@@ -35,7 +35,7 @@ Rohit Chandra.
   Although full specification of OpenMP is appropriate and complete, it is not
   a very accessible format for programmers wishing to use OpenMP for developing
   parallel application. This book tries to fullfill the needs of these
-  programmers. This book can serve as a complete reference guild, also can be
+  programmers. This book can serve as a complete reference guide, also can be
   the mean tool for exploring options to improve performance on the OpenMP
   section of the project(removing dependency, load balancing between threads).
   \end{quotation}
@@ -46,13 +46,16 @@ Mike Folk, Gerd Heber, Quincey Koziol, Elena Pourmal, and Dana Robinson.
 \newblock In {\em Proceedings of the {EDBT/ICDT} 2011 Workshop on Array
   Databases}, AD '11, pages 36--47, New York, NY, USA, 2011. ACM.
  \begin{quotation}\noindent As the title suggests, this paper gives an overview
-  of the functionality provided by HDF5. Particularly applicable is a section
-  on improving I/O performance. \end{quotation}
+  of the functionality provided by HDF5, speaking at a higher, more conceptual
+  level than documentation. Particularly applicable is a section on improving
+  I/O performance. \end{quotation}
 \bibitem{HDF:UserGuide}
 The~{HDF} Group.
 \newblock {HDF5} user's guide, 2014.
 \newblock http://www.hdfgroup.org/HDF5/doc/UG/index.html.
- \begin{quotation}\noindent This user's guide covers HDF5 use in C and Fortran.
+ \begin{quotation}\noindent This user's guide covers HDF5 usage in C and
+  Fortran. It is comprehensive and well-organized. A listing of available
+  dataset functions appears to be an especially practical reference.
   \end{quotation}
 \bibitem{lamb}
 Jeroen~S.W. Lamb, Martin Rasmussen, and Christian~S. Rodrigues.

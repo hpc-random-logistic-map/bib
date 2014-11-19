@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  18 NOV 2014 10:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  18 NOV 2014 22:20
 entering extended mode
 **annot.tex
 ("C:\Users\Emily\Documents\2014 fall\CSCI 4576\bib\annot.tex"
@@ -58,7 +58,7 @@ m-put-ing, 2004--2014.
  []
 
 
-Overfull \hbox (35.20374pt too wide) in paragraph at lines 52--55
+Overfull \hbox (35.20374pt too wide) in paragraph at lines 53--56
 []\OT1/cmr/m/n/12 The HDF Group.  HDF5 user's guide, 2014.  http://www.hdfgroup
 .org/HDF5/doc/UG/index.html. 
  []
@@ -79,7 +79,7 @@ Here is how much of TeX's memory you used:
 fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmmi12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on annot.pdf (3 pages, 66361 bytes).
+Output written on annot.pdf (3 pages, 66549 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
